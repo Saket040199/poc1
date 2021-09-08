@@ -9,7 +9,7 @@ export const SlateWrapper = () => {
         <div className="Slate">
         <ElementContainer />
         <ElementContainer />
-        <ElementContainer />
+        
         </div>
         </div>
     </div>
