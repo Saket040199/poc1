@@ -1,0 +1,9 @@
+.deleteimg{
+    height: 45px;
+    width: 45px;
+    cursor: pointer;
+}
+
+.deletebutton{
+    margin-right: 3px;
+}
