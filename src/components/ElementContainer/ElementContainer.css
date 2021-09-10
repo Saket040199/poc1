@@ -2,6 +2,7 @@
     margin-left: 10%;
     width: 80%;
     border: 1px solid rgb(189, 188, 188);
+    border-radius: 5px;
     display: flex;
     flex-direction: row;
     justify-content: center;
