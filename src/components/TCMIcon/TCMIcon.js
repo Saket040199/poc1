@@ -3,8 +3,13 @@ import Tcm1 from '../../Assests/tcm.png'
 import './tcmIcon.css'
 
 const TCMicon = () => {
+
+    const alertbox = () => {
+        alert("TCM part is left!!");
+    }
+
     return <div>
-       <button className="tcmbutton"> <img className="tcmimg" src={Tcm1}></img></button>
+       <button onClick={alertbox} className="tcmbutton"> <img className="tcmimg" src={Tcm1}></img></button>
     </div>
 
 }
